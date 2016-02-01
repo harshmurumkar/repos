@@ -1,4 +1,4 @@
-package hackerrank;
+package hackerrank.practice.list;
 
 /*
  * Insert Node at a given position in a linked list head can be NULL First element in the
